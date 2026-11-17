@@ -1,0 +1,8 @@
+firstname = input("What is your first name? ")
+lastname = input("What is your last name? ")
+section = input("What is your section? ")
+favsubject = input("What is your favorite subject? ")
+print ("Hello, " + firstname + " " + lastname)
+print ("Your name code is", firstname +" " + lastname)
+print ("Your section is", section)
+print ("Your favorite subject is", favsubject)
